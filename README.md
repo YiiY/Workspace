@@ -1,4 +1,4 @@
-# Workspace/exerise
+# workspace/exercise
 coding fluff
 
 Urlfy:

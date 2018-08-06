@@ -24,4 +24,4 @@ StringCompression:
 Input:aaabbbbccd
 output: a3b4c2d1
 
-special case: if output string length is less than input string length, return orginal string
+     special case: if output string length is less than input string length, return orginal string
